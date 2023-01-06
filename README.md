@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [KXH-ENGINE](https://github.com/HansPanzer2137/KXH-ENGINE) and [OWN-TEST-REPO](https://github.com/HansPanzer2137/PRE-ALPHA-SHIT)
 
-- 🌱 I’m currently learning:<br><br>
+- 🌱 I’m currently learning:
             <ul>
   <li><em><strong>ICT long range connect support for UAV (flying speed >500km/h)***, </li>
               <li><em><strong>GSM LTE/5G Stations - low level Security</strong></em>,</li>
