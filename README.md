@@ -9,8 +9,15 @@
 
 - 🔭 I’m currently working on [KXH-ENGINE](https://github.com/HansPanzer2137/KXH-ENGINE) and [OWN-TEST-REPO](https://github.com/HansPanzer2137/PRE-ALPHA-SHIT)
 
-- 🌱 I’m currently learning ***ICT long range connect support for UAV (flying speed >500km/h)*** , ***GSM LTE/5G Stations - low level Security*** and ***Micro controller C/Asm64 Environment for Advanced UAV systems ***
-
+- 🌱 I’m currently learning:<br><br>
+            <ul>
+  <li><em><strong>ICT long range connect support for UAV (flying speed >500km/h)***, </li>
+              <li><em><strong>GSM LTE/5G Stations - low level Security</strong></em>,</li>
+             <li><em><strong>Microcontroller C/Asm64 Environment for Advanced UAV systems</strong></em>,</li>
+             <li><em><strong>Turbo-Jet/Rocket simulation engine for UAV/Balistic (computer-tracked) systems</strong></em>,</li>
+             <li><em><strong>Engineering of air-to-surface and air-to-air guided missiles, non-standard missiles (chemical fuze, napalm, APFSDS, CKEM missiles) along with engineering of advanced ballistic computers</strong></em></li>
+  </ul>
+<br>
 - 💬 Ask me about ***Python, ICT, Microcontrollers, Assembly (x86_64/x64), Low Level Security, Back/Mid-End***
 
 - 📫 How to reach me **dilerdanych@gmail.com** or ***dilerdanych@kxh-research.defense.gov***
