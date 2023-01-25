@@ -36,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanspanzer2137&show_icons=true&theme=tokyonight" alt="hanspanzer2137" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanspanzer2137&" alt="hanspanzer2137" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanspanzer2137&theme=tokyonight&layout=compat" alt="hanspanzer2137" /></p>
