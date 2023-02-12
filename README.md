@@ -13,6 +13,8 @@
             <ul>
   <li><em><strong>ICT long range connect support for UAV (flying speed >500km/h)***, </li>
               <li><em><strong>GSM LTE/5G Stations - low level Security</strong></em>,</li>
+              <li><em><strong>Low level Security/Reverse Engineering using Asm64</strong></em>,</li>
+              <li><em><strong>Offensive Security of backend/midend structures like databases, IoT, network systems or API</strong></em>,</li>
              <li><em><strong>Microcontroller C/Asm64 Environment for Advanced UAV systems</strong></em>,</li>
              <li><em><strong>Turbo-Jet/Rocket simulation engine for UAV/Balistic (computer-tracked) systems</strong></em>,</li>
              <li><em><strong>Engineering of air-to-surface and air-to-air guided missiles, non-standard missiles (chemical fuze, napalm, APFSDS, CKEM missiles) along with engineering of advanced ballistic computers</strong></em></li>
