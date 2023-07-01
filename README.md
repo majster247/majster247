@@ -11,7 +11,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [KXH-ENGINE](https://github.com/HansPanzer2137/KXH-ENGINE), [KXH-SYSTEM](https://github.com/HansPanzer2137/KXH-SYSTEM), and [OWN-TEST-REPO](https://github.com/HansPanzer2137/PRE-ALPHA-SHIT).
+- 🔭 I’m currently working on [Babylon Libary Project](https://github.com/majster247/Babylon-Library)
 
 - 🌱 I’m currently learning:
 
@@ -25,7 +25,7 @@
 
 - 💬 Ask me about Python, ICT, Microcontrollers, Assembly (x86_64/x64), Low-Level Security, Back/Mid-End.
 
-- 📫 How to reach me: [dilerdanych@gmail.com](mailto:dilerdanych@gmail.com) or [dilerdanych@kxh-research.defense.gov](mailto:dilerdanych@kxh-research.defense.gov).
+- 📫 How to reach me: [htopolski12@gmail.com](mailto:htopolski12@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
