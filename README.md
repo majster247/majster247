@@ -95,4 +95,4 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanspanzer2137&show_icons=true&locale=en" alt="hanspanzer2137" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=majster247&show_icons=true&locale=en" alt="majster247" /></p>
