@@ -2,7 +2,7 @@
 <h3 align="center">I'm not a programmer, but I love coding and working on projects involving UAVs, graphics engines, and more.</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hanspanzer2137&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=majster247&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="left">
@@ -44,9 +44,6 @@
   <a href="https://discord.gg/HansPanzer#4181" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/majster-57a511215" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -83,15 +80,6 @@
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Languages/git.svg" alt="Git" height="40" width="40" />
-  </a>
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Languages/illustrator.svg" alt="Illustrator" height="40" width="40" />
-  </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Languages/photoshop.svg" alt="Photoshop" height="40" width="40" />
-  </a>
-  <a href="https://www.blender.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Languages/blender.svg" alt="Blender" height="40" width="40" />
   </a>
 </p>
 
