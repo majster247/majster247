@@ -11,12 +11,6 @@
   </a>
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" />
-  </a>
-</p>
-
 - 🔭 I’m currently working on [KXH-ENGINE](https://github.com/HansPanzer2137/KXH-ENGINE), [KXH-SYSTEM](https://github.com/HansPanzer2137/KXH-SYSTEM), and [OWN-TEST-REPO](https://github.com/HansPanzer2137/PRE-ALPHA-SHIT).
 
 - 🌱 I’m currently learning:
