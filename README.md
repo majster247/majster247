@@ -5,24 +5,19 @@
   <img src="https://komarev.com/ghpvc/?username=majster247&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy&theme=onedark">
-    <img src="https://github-profile-trophy.vercel.app/?username=hanspanzer2137&theme=onedark" alt="GitHub Profile Trophy" />
-  </a>
+<p align="center">
+  <a href="https://majster247.github.io/">Site/Portflio</a>
 </p>
 
 - 🔭 I’m currently working on [Babylon Libary Project](https://github.com/majster247/Babylon-Library)
 
-- 🌱 I’m currently learning:
+- 🌱 I’m currently work on:
 
-  - ICT long-range connectivity support for UAVs (flying speed >500km/h).
-  - GSM LTE/5G Stations - low-level Security.
-  - Low-level Security/Reverse Engineering using Asm64.
-  - Offensive Security of backend/mid-end structures like databases, IoT, network systems, or APIs.
-  - Microcontroller C/Asm64 Environment for Advanced UAV systems.
-  - Turbo-Jet/Rocket simulation engine for UAV/Ballistic (computer-tracked) systems.
-  - Engineering of air-to-surface and air-to-air guided missiles, non-standard missiles (chemical fuze, napalm, APFSDS, CKEM missiles), along with engineering advanced ballistic computers.
-
+  - Psyhics simulations in C/C++
+  - Low level security
+  - Simple utility apps for Ubuntu/Arch
+  - "rice" dotfiles for Ubuntu/Arch
+  
 - 💬 Ask me about Python, ICT, Microcontrollers, Assembly (x86_64/x64), Low-Level Security, Back/Mid-End.
 
 - 📫 How to reach me: [htopolski12@gmail.com](mailto:htopolski12@gmail.com)
@@ -31,9 +26,6 @@
 <p align="left">
   <a href="https://instagram.com/_majster_247" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucti_evnnardaulfnzarsh5w" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
   <a href="https://discord.gg/HansPanzer#4181" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
