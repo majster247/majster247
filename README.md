@@ -13,14 +13,15 @@
   <a href="https://majster247.github.io/">Site/Portflio</a>
 </p>
 
-- 🔭 I’m currently working on [Babylon Libary Project](https://github.com/majster247/Babylon-Library)
+- 🔭 I’m currently working on [AMS-OS](https://github.com/majster247/AMS) and research about my own 16-bit computer from breadboards
 
 - 🌱 I’m currently work on:
 
   - Psyhics simulations in C/C++
-  - Low level security
+  - Low level programming & security
   - Simple utility apps for Ubuntu/Arch
   - "rice" dotfiles for Ubuntu/Arch
+
   
 - 💬 Ask me about Python, ICT, Microcontrollers, Assembly (x86_64/x64), Low-Level Security, Back/Mid-End.
 
