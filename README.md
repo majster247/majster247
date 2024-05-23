@@ -2,7 +2,7 @@
 <h3 align="center">I'm not a programmer, but I love coding and working on projects involving UAVs, graphics engines, and more.</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=majster247&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=majster247&label=Profile%20views&color=0e75b6&style=flat&base=28671" alt="Profile views" />
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=majster247&theme=onedark" alt="majster247" /></a> </p>
