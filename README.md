@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Majster</h1>
+
 <h3 align="center">I'm not a programmer, but I love coding and working on projects involving UAVs, graphics engines, and more.</h3>
+
+<div style="align: center; display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://media.tenor.com/WIqvnT_7Vj8AAAAi/terry-a-davis-terry-davis.gif" width="49%" height="50%">
+    <img src="https://media.tenor.com/rdl2rwMrP5kAAAAM/terry-reaction.gif" width="50%" height="50%">
+</div>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=majster247&label=Profile%20views&color=0e75b6&style=flat&base=28671" alt="Profile views" />
@@ -13,14 +20,19 @@
   <a href="https://majster247.github.io/">Site/Portflio</a>
 </p>
 
-- 🔭 I’m currently working on [AMS-OS](https://github.com/majster247/AMS) and research about my own 16-bit computer from breadboards
+- 🔭 I’m currently working on:
+    - [AMS-OS](https://github.com/majster247/AMS)
+    - research about my own 16-bit computer from breadboards
+    - [Workers&Resources mods](https://github.com/majster247/workers_resources_mod)
+    
 
 - 🌱 I’m currently work on:
 
   - Psyhics simulations in C/C++
-  - Low level programming & security
-  - Simple utility apps for Ubuntu/Arch
-  - "rice" dotfiles for Ubuntu/Arch
+  - Low level programming
+  - ~~Simple utility apps for Ubuntu/Arch~~
+  - ~~"rice" dotfiles for Ubuntu/Arch~~
+  - Workers & Resources mods
 
   
 - 💬 Ask me about Python, ICT, Microcontrollers, Assembly (x86_64/x64), Low-Level Security, Back/Mid-End.
