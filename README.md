@@ -23,7 +23,7 @@
 - 🔭 I’m currently working on:
     - [AMS-OS](https://github.com/majster247/AMS)
     - research about my own 16-bit computer from breadboards
-    - [Workers&Resources mods](https://github.com/majster247/workers_resources_mod)
+    - Arduino serial shell to control data&pinModes
     
 
 - 🌱 I’m currently work on:
