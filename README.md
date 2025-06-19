@@ -3,7 +3,6 @@
 <h3 align="center">I'm not a programmer, but I love coding and working on projects involving UAVs, graphics engines, and more.</h3>
 
 <div style="align: center; display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="https://media.tenor.com/WIqvnT_7Vj8AAAAi/terry-a-davis-terry-davis.gif" width="49%" height="50%">
     <img src="https://media.tenor.com/rdl2rwMrP5kAAAAM/terry-reaction.gif" width="50%" height="50%">
 </div>
 
