@@ -1,0 +1,145 @@
+/* Reset i podstawowe style */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #121212; /* ciemne tło */
+  color: #e0e0e0; /* jasny tekst */
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover,
+a:focus {
+  color: #bbbbbb;
+  outline: none;
+}
+
+/* App root */
+.App {
+  text-align: center;
+  padding: 2rem;
+}
+
+/* Header */
+.App-header {
+  background-color: #000000;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(12px + 1.5vmin);
+  color: #fff;
+}
+
+/* Logo, jeśli jest */
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+  margin-bottom: 2rem;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+/* Przycisk / link GitHub */
+button,
+.App-link,
+a.button {
+  background-color: #000;
+  border: 2px solid #fff;
+  color: #fff;
+  padding: 0.5rem 1.2rem;
+  border-radius: 6px;
+  font-weight: 600;
+  cursor: pointer;
+  display: inline-block;
+  user-select: none;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  margin-top: 1rem;
+}
+
+button:hover,
+.App-link:hover,
+a.button:hover {
+  background-color: #fff;
+  color: #000;
+  border-color: #fff;
+}
+
+/* Karty projektu */
+.project-card {
+  background-color: #000;
+  border: 1px solid #444;
+  border-radius: 8px;
+  padding: 1.2rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 0 15px rgba(255, 255, 255, 0.05);
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  color: #e0e0e0;
+  transition: box-shadow 0.3s ease;
+}
+
+.project-card:hover {
+  box-shadow: 0 0 25px rgba(255, 255, 255, 0.15);
+}
+
+.project-card h3 {
+  font-size: 1.3rem;
+  margin-bottom: 0.4rem;
+  color: #fff;
+}
+
+.project-card h3 small {
+  font-weight: normal;
+  color: #aaa;
+  margin-left: 0.5rem;
+}
+
+.project-card p {
+  margin-bottom: 0.6rem;
+  color: #ccc;
+  flex-grow: 1;
+  font-size: 1rem;
+}
+
+/* Informacje o licencji i aktualizacji */
+.project-info {
+  font-size: 0.85rem;
+  color: #777;
+}
+
+/* Grid layout dla listy projektów */
+.projects-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+/* Animacja logo */
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

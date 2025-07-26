@@ -1,0 +1,17 @@
+.navbar {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+  background-color: #222;
+  padding: 1rem;
+}
+
+.navbar li a {
+  color: white;
+  text-decoration: none;
+}
+
+.navbar li a.active {
+  font-weight: bold;
+  text-decoration: underline;
+}
