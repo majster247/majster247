@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.ea38088a.css",
-    "main.js": "/static/js/main.d299218d.js",
-    "index.html": "/index.html",
-    "main.ea38088a.css.map": "/static/css/main.ea38088a.css.map",
-    "main.d299218d.js.map": "/static/js/main.d299218d.js.map"
+    "main.css": "/majster247/static/css/main.ea38088a.css",
+    "main.js": "/majster247/static/js/main.d299218d.js",
+    "index.html": "/majster247/index.html",
+    "main.ea38088a.css.map": "/majster247/static/css/main.ea38088a.css.map",
+    "main.d299218d.js.map": "/majster247/static/js/main.d299218d.js.map"
   },
   "entrypoints": [
     "static/css/main.ea38088a.css",
